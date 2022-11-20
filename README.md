@@ -3,5 +3,7 @@ This code can generate random story in python language by using random module fu
 
 This story is subject to be copyrighted.Don't use this code in public sites.
 
-Author Name:Shushant Kumar Awasthi
+Author Name: Shushant Kumar Awasthi
+
+
 Enjoy your day🙂
