@@ -4,7 +4,7 @@ import random
 
 names = [' Aditya',' Harshit',' Ajay',' Ishaan',' Virat',' Anil',' Sahil',' Nikhil',' Iswar','Aman','Krishna','Mohit','Pranav','Shaurya']
 
-places =[' Mumbai',' Kolkata',' Bhagyanagar',' Vijaywada',' Indore',' Patna',' Ranchi',' Kochi',' Jalandhar',' Delhi',' Ludhiana',' Banglore', ]
+places =[' Mumbai',' Kolkata',' Bhagyanagar',' Vijaywada',' Indore',' Patna',' Ranchi',' Kochi','vizag',' Delhi',' Ludhiana',' Banglore', ]
 
 body = [' went a grand building and took a photograph',' met very famous celebrity ',' went to the most beautiful spot where he wanted to visit eagerly ',' Collected stamps & old currencies',' learnt their tradition dance',' celebrated New Year',' tasted their local foods']
 
